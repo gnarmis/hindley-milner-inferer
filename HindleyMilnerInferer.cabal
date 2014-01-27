@@ -1,0 +1,11 @@
+Name:           HindleyMilnerInferer
+Version:        0.0.0
+Cabal-Version:  >= 1.18
+Author:		      Gursimran Singh
+Homepage:	      http://github.com/gnarmis/hindley-milner-inferer
+Synopsis:	      An implementation of the Hindley-Milner type inference algorithm.
+
+Library
+  Build-Depends:	
+    base,
+    hspec
